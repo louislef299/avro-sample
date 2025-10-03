@@ -1,4 +1,4 @@
-package com.github.louislef299.avro-sample;
+package com.github.louislef299.avro.sample;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
